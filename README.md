@@ -1,16 +1,18 @@
 ### Nice to see you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-I'm a 2nd grade student in DGIST
-
+I'm a junior student in DGIST
+My major is Computer Science.
 
 ## I can code with...
 JavaScript
 React
 Python
+C++
 
 
+## Research Interest...
+- 3d generative model
+- NeRF
+- Computer vision
+- AI Application : Fashion
 
-## I like...
-- Music
-- Fashion
-- Art
