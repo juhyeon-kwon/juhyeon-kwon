@@ -12,7 +12,7 @@ C++
 
 ## Research Interest...
 - 3d generative model
-- NeRF
-- Computer vision
-- AI Application : Fashion
+- NeRF & 3D Gaussian Splatting
+- Computer vision & Computer Graphics
+
 
